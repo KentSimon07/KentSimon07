@@ -42,7 +42,7 @@
 <td width="30%" align="center" valign="middle">
 
 <!-- Upload the GIF to this repo as ice-bear.gif -->
-<img src="ice-bear.gif" alt="Pixel polar bear waving in the snow" width="200" />
+<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/ice-bear.gif" alt="Pixel polar bear waving in the snow" width="200" />
 
 </td>
 </tr>
@@ -64,16 +64,29 @@
 
 ### `// stats`
 
+<!-- Stats cards appear after stats.yml (in .github/workflows) has run once from the Actions tab -->
 <table>
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KentSimon07&show_icons=true&bg_color=0d1117&title_color=dce3ea&icon_color=dce3ea&text_color=ffffff&border_color=dce3ea" alt="Kent's GitHub stats" width="100%" />
+<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Kent's GitHub stats" width="100%" />
 
 </td>
 <td align="center" width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KentSimon07&background=0D1117&border=DCE3EA&stroke=DCE3EA&ring=DCE3EA&fire=DCE3EA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DCE3EA&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="100%" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="When I code" width="100%" />
 
 </td>
 </tr>
