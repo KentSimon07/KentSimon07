@@ -2,10 +2,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KentSimon07&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/KentSimon07?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=a855f7" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/KentSimon07?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=dce3ea" alt="Followers" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=A855F7&width=500&lines=Software+Developer;Cert+IV+IT+(Programming)+Student;Building+Things+With+Code;Learning+Something+New+Every+Day" alt="Animated introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=DCE3EA&width=500&lines=Software+Developer;Cert+IV+IT+(Programming)+Student;Building+Things+With+Code;Learning+Something+New+Every+Day" alt="Animated introduction" />
 
 `I build software`, `write clean code`, and `enjoy solving problems`.
 
@@ -27,15 +27,15 @@
 **Technologies**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=a855f7" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=a855f7" alt="C#" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=a855f7" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=a855f7" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=a855f7" alt="CSS3" />
-  <img src="https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=a855f7" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MYSQL-0d1117?style=for-the-badge&logo=mysql&logoColor=a855f7" alt="MySQL" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=a855f7" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=a855f7" alt="Git" />
+  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=dce3ea" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=dce3ea" alt="C#" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=dce3ea" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=dce3ea" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=dce3ea" alt="CSS3" />
+  <img src="https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=dce3ea" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MYSQL-0d1117?style=for-the-badge&logo=mysql&logoColor=dce3ea" alt="MySQL" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=dce3ea" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=dce3ea" alt="Git" />
 </p>
 
 </td>
@@ -64,12 +64,12 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KentSimon07&show_icons=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&border_color=a855f7" alt="Kent's GitHub stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KentSimon07&show_icons=true&bg_color=0d1117&title_color=dce3ea&icon_color=dce3ea&text_color=ffffff&border_color=dce3ea" alt="Kent's GitHub stats" width="100%" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KentSimon07&background=0D1117&border=A855F7&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KentSimon07&background=0D1117&border=DCE3EA&stroke=DCE3EA&ring=DCE3EA&fire=DCE3EA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DCE3EA&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" width="100%" />
 
 </td>
 </tr>
@@ -81,10 +81,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=dce3ea" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=dce3ea" alt="Email" />
   </a>
 </p>
 
