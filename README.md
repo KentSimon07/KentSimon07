@@ -62,26 +62,20 @@
 
 ---
 
-### `// stats`
+### `// my journey, wrapped`
 
-<!-- Stats cards appear after stats.yml (in .github/workflows) has run once from the Actions tab -->
+<p align="center">
+  <img src="https://git-hub-wrapped-phi.vercel.app/api/card?username=KentSimon07&mode=all-time&theme=midnight" alt="Kent's GitHub Wrapped" width="100%" />
+</p>
+
+### `// how I code`
+
+<!-- These two cards appear after stats.yml (in .github/workflows) has run once from the Actions tab -->
 <table>
 <tr>
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Kent's GitHub stats" width="100%" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KentSimon07&background=0D1117&border=DCE3EA&stroke=DCE3EA&ring=DCE3EA&fire=DCE3EA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DCE3EA&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="100%" />
+<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="What I build with" width="100%" />
 
 </td>
 <td align="center" width="50%">
