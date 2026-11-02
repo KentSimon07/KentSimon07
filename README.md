@@ -42,7 +42,7 @@
 <td width="30%" align="center" valign="middle">
 
 <!-- Upload the GIF to this repo as ice-bear.gif -->
-<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/ice-bear.gif" alt="Pixel polar bear waving in the snow" width="200" />
+<img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/main/snow-bear-walk.gif" alt="Chubby pixel polar bear walking in the snow" width="200" />
 
 </td>
 </tr>
