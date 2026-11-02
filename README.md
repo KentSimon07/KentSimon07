@@ -41,7 +41,7 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/LxAwk0rwFH4wcJSM9T/giphy.gif" alt="Animated duck" width="200" />
+<img src="https://media1.tenor.com/m/NtveEuYBN9kAAAAC/party-dance-partying.gif" alt="Dancing bear" width="200" />
 
 </td>
 </tr>
