@@ -55,9 +55,7 @@
 ### `// connect`
 
 <p align="center">
-  <a href="https://github.com/KentSimon07?tab=repositories"><img src="https://img.shields.io/badge/my%20repos-0d1117?style=for-the-badge&logo=github&logoColor=dce3ea" alt="My repositories" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=dce3ea" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=dce3ea" alt="Email" /></a>
+  <a href="https://github.com/KentSimon07?tab=repositories"><img src="https://img.shields.io/badge/my%20repos-0d1117?style=for-the-badge&logo=github&logoColor=dce3ea" alt="My repositories" /></a>  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=dce3ea" alt="Email" /></a>
 </p>
 
 <picture>
