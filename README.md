@@ -41,7 +41,8 @@
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://media1.tenor.com/m/NtveEuYBN9kAAAAC/party-dance-partying.gif" alt="Dancing bear" width="200" />
+<!-- Upload the GIF to this repo as ice-bear.gif -->
+<img src="ice-bear.gif" alt="Pixel polar bear waving in the snow" width="200" />
 
 </td>
 </tr>
