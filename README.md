@@ -51,9 +51,12 @@
 
 ### `// activity`
 
-<!-- Appears after pacman.yml (in .github/workflows) has run once from the Actions tab -->
+<!-- Appears after snake.yml (in .github/workflows) has run once from the Actions tab -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KentSimon07/KentSimon07/output/contribution-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/KentSimon07/KentSimon07/output/contribution-snake.svg" alt="Animated contribution graph" width="100%" />
+  </picture>
 </p>
 
 ---
